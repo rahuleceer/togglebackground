@@ -1,0 +1,27 @@
+#outer-div{
+	height: 600px;
+	width: 100%;
+}
+
+#innerdiv{
+	height: 2.5rem;
+	width: 7rem;
+	background-color: white;
+	border-radius: 20px;
+    border: 2px solid black;
+    margin: auto;
+}
+#btn{
+	height: inherit;
+	width: 2.4rem;
+	background-color: black;
+	margin-left: 3px;
+	border-radius: 20px;
+}
+#para{
+	text-align: center;
+	font-size: 2.5rem;
+	margin-top: 30px;
+	color: green;
+	font-family: sans-serif;
+}
